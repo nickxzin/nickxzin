@@ -12,4 +12,4 @@
 </div>
 <hr>
 
-![Snake animation](https://github.com/rafaballerini/nickxzin/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/nickxzin/nickxzin/blob/output/github-contribution-grid-snake.svg)
