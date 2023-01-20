@@ -1,7 +1,6 @@
 ### Olá! Bem vindo ao meu perfil! 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickxzin)](https://github.com/nickxzin/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickxzin&count_private=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickxzin&count_private=true)](https://github.com/nickxzin/github-readme-stats)
 
 <br>
 <div style="display: inline_block">
