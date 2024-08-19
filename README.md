@@ -26,7 +26,6 @@
 </div>
 <br>
 
-![Snake animation](https://github.com/nickxzin/nickxzin/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://github.com/nickxzin/nickxzin/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=orange)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffbf00&height=120&section=footer"/>
