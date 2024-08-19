@@ -2,10 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c0e31c&size=35&center=true&vCenter=true&width=1000&lines=HELLO!+Welcome+to+my+profile+👋;I'm+18+years+old;I'm+from+Brazil)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-nickxzin.vercel.app/api?username=nickxzin&include_all_commits=true&show_icons=true&count_private=true&hide_border=true&title_color=c0e31c&icon_color=ff7700&text_color=ffbf00&ring_color=ffbf00&bg_color=0d1117&layout=default" alt="nickxzin github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats-nickxzin.vercel.app/api/top-langs/?username=nickxzin&layout=compact&hide_border=true&title_color=c0e31c&text_color=ffbf00&bg_color=0d1117&langs_count=10" />
+<div align="center" justify-content="space-between" display="flex">
+  <img gap="50px" src="https://github-readme-stats.vercel.app/api?username=nickxzin&count_private=true&show_icons=true&theme=merko"></img>
+  <img gap="50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickxzin&exclude_repo=ProjetoIntegrador&theme=merko" rel="status readme"></img>
 </div>
+
 
 <div align="center"> 
   <a href="mailto:nicolas.pzdev@gmail.com" target="_blank"><img='https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white'></a>
